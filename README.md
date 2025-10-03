@@ -1,6 +1,6 @@
 # 💫 About Me:
 Proficient in React Javascript and HTML/CSS.Seeking opportunities To Build user-Friendly interfaces
-
+https://www.linkedin.com/in/suhas-hr-9518b0339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Suhashr6) 
